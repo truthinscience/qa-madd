@@ -8,7 +8,7 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String EXTRA_MESSAGE = "My_App";
+    public static final String EXTRA_MESSAGE = "My_App";
     private Button btnSubmit;
 
     @Override
